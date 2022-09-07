@@ -1,3 +1,5 @@
+@file:Suppress("DEPRECATION")
+
 package com.example.jetpack.composables
 
 
@@ -151,6 +153,4 @@ fun RegisterPage(navController: NavController) {
             }
         }
     }
-
-
 }
